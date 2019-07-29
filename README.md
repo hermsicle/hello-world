@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi World!
+
+This is I. Herman, committing myself to become a program and software developer.
